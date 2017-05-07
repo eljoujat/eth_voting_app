@@ -1,1 +1,1 @@
-# eth_voting_app
+# Sample Ethereum App
